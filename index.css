@@ -1,0 +1,19 @@
+body{
+    background-color: saddlebrown;
+    padding: 20%;
+    font-family: Lobster;
+}
+
+/* #TC{
+    border-bottom: 5px solid black;
+} */
+
+.main{
+    background-color: white;
+    border: 7px solid black;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+}
